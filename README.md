@@ -122,19 +122,6 @@ This PC is intended for:
 
 ---
 
-## Documentation Notes
-
-This repository reflects the build using the photos currently available. As more photos are taken, this documentation can be expanded with:
-
-- a complete assembly log
-- BIOS screenshots
-- benchmark results
-- temperature testing
-- final desk setup photos
-- additional cable management details
-
----
-
 ## Author
 Melih Boluk
 
