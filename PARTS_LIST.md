@@ -1,48 +1,29 @@
 # Parts List
 
-## Component Inventory
+## CPU
+- **AMD Ryzen 7 9700X**
 
-1. **CPU**
-   - Model: AMD Ryzen 7 5800X
-   - Cores: 8
-   - Threads: 16
-   - Frequency: 3.8 GHz (Base) / 4.7 GHz (Boost)
+## Motherboard
+- **Gigabyte B650 AORUS ELITE AX ICE**
 
-2. **Motherboard**
-   - Model: ASUS ROG Strix B550-F Gaming
-   - Form Factor: ATX
-   - Socket: AM4
+## Graphics Card
+- **Zotac RTX 5070 Ti 16GB**
 
-3. **RAM**
-   - Capacity: 32GB
-   - Type: DDR4-3200
-   - Configuration: 2 x 16GB
+## CPU Cooler
+- **Thermalright Peerless Assassin 120 SE ARGB**
 
-4. **GPU**
-   - Model: NVIDIA GeForce RTX 3070
-   - Memory: 8GB GDDR6
-   - Architecture: Ampere
+## RAM
+- **Crucial Pro 32GB DDR5-6000 CL36**
 
-5. **Storage**
-   - SSD: 1TB NVMe M.2
-   - HDD: 2TB 7200 RPM
+## Storage
+- **Samsung 990 Pro 2TB NVMe**
+- **500GB SSD**
 
-6. **Power Supply**
-   - Wattage: 750W
-   - Certification: 80 Plus Gold
+## Power Supply
+- **Lian Li EDGE Gold 850W**
 
-7. **Case**
-   - Model: NZXT H510
-   - Form Factor: Mid Tower
+## Case
+- **NZXT H6 Flow RGB**
 
-8. **Cooling**
-   - Cooler Type: Air
-   - Model: Noctua NH-D15
-   
-9. **Additional Components**
-   - Case Fans: 3 x 120mm
-   - Thermal Paste: Arctic Silver 5
-
-## Notes
-- Ensure compatibility between components.
-- Consider airflow and cable management in the build.
+## Additional Displays
+- **Lian Li LCD Screen**
