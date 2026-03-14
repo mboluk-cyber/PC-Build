@@ -137,4 +137,5 @@ This repository reflects the build using the photos currently available. As more
 
 ## Author
 Melih Boluk
+
 This repository documents my custom gaming PC build and the process used to assemble, configure, and organize it.
