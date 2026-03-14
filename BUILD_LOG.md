@@ -93,3 +93,23 @@ This document outlines a thorough step-by-step guide to building a PC with the f
 
 ### Step 24: Celebrate!
 - **Enjoy your new system!** You've successfully completed the build process!
+
+- ## Build Photos
+
+### 1. Motherboard Installed in the Case
+![Motherboard installed in NZXT H6 Flow](images/5.jpg)
+
+### 2. Thermal Paste and Cooler Prep
+![Thermal paste and cooler preparation](images/4.jpg)
+
+### 3. GPU Installed
+![GPU installed in the system](images/3.jpg)
+
+### 4. Rear SSD Mount
+![Rear SSD mounting area](images/2.jpg)
+
+### 5. Cable Management
+![Rear cable management](images/1.jpg)
+
+### 6. Finished Build Angle View
+![Finished PC build angle view](images/6.jpg)
